@@ -1,10 +1,21 @@
 {
   "schema": "GARD-MNA-RELEASE-2.0",
-  "releaseId": "EMPTY-NO-OWNER-APPROVAL",
+  "releaseId": "REL-4efa5826-a654-4452-a2b9-83520a4d43cc",
   "stage": "PUBLIC_TEASER",
-  "createdAt": "2026-11-19T00:00:00+09:00",
-  "expiresAt": "",
+  "createdAt": "2026-11-18T23:46:24.693Z",
+  "expiresAt": "2026-12-03",
   "recipient": "",
-  "notice": "오너가 실제 공개 승인한 자산만 게시합니다. 현재 공개 승인 자료 없음.",
-  "items": []
+  "notice": "공개 승인된 개요. 원본·실현된 매출·권리보증을 포함하지 않습니다.",
+  "items": [
+    {
+      "publicId": "OFFER-f1315564-a572-4de1-bc6a-bb5c561aa3b3",
+      "title": "GARD 자영자산 슬로건과 Everyone Is a Maker",
+      "category": "브랜드",
+      "summary": "GARD가 제안하는 ‘모두의 AI, 모두의 창업’\nBYOAA 기반 인간주권형 AI 제작·자산화·창업 생태계 종합 제안서 v1.0\n\n2026년 11월 12일 | 제안 주체: GARD 자영자산 | 핵심 명제: Everyone Is a Maker",
+      "evidenceLevel": "추가 검증 필요",
+      "dealModels": "협의 필요",
+      "contact": "계약 협상시 annlim60@hanmail.net 개별 협의",
+      "limitations": "원본·미공개 데이터·내부 계산규칙·계약서·자격증명 미포함"
+    }
+  ]
 }
