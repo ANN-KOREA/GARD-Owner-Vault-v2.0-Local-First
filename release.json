@@ -1,0 +1,10 @@
+{
+  "schema": "GARD-MNA-RELEASE-2.0",
+  "releaseId": "EMPTY-NO-OWNER-APPROVAL",
+  "stage": "PUBLIC_TEASER",
+  "createdAt": "2026-11-19T00:00:00+09:00",
+  "expiresAt": "",
+  "recipient": "",
+  "notice": "오너가 실제 공개 승인한 자산만 게시합니다. 현재 공개 승인 자료 없음.",
+  "items": []
+}
